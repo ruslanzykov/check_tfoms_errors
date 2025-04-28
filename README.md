@@ -1,5 +1,5 @@
 # check_tfoms_errors
-Проверка ошибок в реестрах ТФОМС  
+Проверка ошибок в реестрах ТФОМС АК  
 [CHANGELOG](CHANGELOG.md)
 
 ## Windows сборка
